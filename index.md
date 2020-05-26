@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+##广告：
+###优秀IDC推荐:      
+高品质洛杉矶GIA CN2 GIA，适合对网络质量和机器性能要求较高的用户，采用Xeon Gold CPU。季付促销,   2G内存，1T单向流量（相当于2t双向）499/3个月起步,[点击进入hkserversolution官网]       (https://www.hkserversolution.com/cart.php?gid=9)
 
-You can use the [editor on GitHub](https://github.com/telegram166/x86.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+###SS机场推荐：
+自研Android，iOS，Windows，Mac，Linux客户端。采用ss、openVPN双协议，备有全球IPLC高速专线以抗特殊时期封锁，完美支持Netflix、Disney+等各大视频平台，提供游戏专线，支持回国线路。免费3天试用，7天退款保障，活动价格低至$2.49/月！[PandaVPN官网](https://www.pandufm.xyz/r/100096)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/telegram166/x86.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+###V2ray机场推荐:  
+注册即可送 10G 流量白嫖，享受稳定 1080p高清视频，月付3元起。套餐内有iplc+隧道备用，高墙期间依然坚挺。高级会员的话另有PXXXHUB、netflix等福利账号，可以搭配机场高级会员使用，  [点击进入闪电官网](https://freemycloud.xyz/auth/register?code=qe1C)
